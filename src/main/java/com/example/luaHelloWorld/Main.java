@@ -4,7 +4,6 @@ import java.awt.*;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
-import java.util.TimerTask;
 import java.util.concurrent.TimeUnit;
 
 import javax.script.ScriptEngine;
